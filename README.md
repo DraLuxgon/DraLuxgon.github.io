@@ -1,6 +1,6 @@
 # DraLuxgon.github.io
 # Now！
-## you are at lux's site
+## you are at Lux's site
 ## 学号：2210120130
 # Homework:
 ## 第一次作业
