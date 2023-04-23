@@ -15,3 +15,7 @@
 ## 第三项
 ## [https://draluxgon.github.io/tab_base.html](https://draluxgon.github.io/tab_base.html)
 ## 组合图表：北京大学某专业学生生日分布情况
+## 第二次作业
+## 第一项
+## [https://draluxgon.github.io/明日方舟-长夜临光.html](https://draluxgon.github.io/明日方舟-长夜临光.html)
+## 内容：对明日方舟长夜临光剧情内容的人物共线关系分析
